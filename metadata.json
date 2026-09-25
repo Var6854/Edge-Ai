@@ -1,0 +1,6 @@
+{
+  "name": "Edge-AI Autonomous Mobile Robot Fleet Coordination",
+  "description": "Smart India Hackathon 26123: Edge-AI based distributed multi-agent fleet coordination for Autonomous Mobile Robots (AMRs) in smart warehouses with real-time peer-to-peer conflict resolution, dynamic rerouting, deadlock recovery, and performance benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
